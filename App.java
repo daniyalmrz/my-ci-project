@@ -2,6 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("CI/CD works!");
+        System.out.println("Modified message - triggering CI!");
     }
 }
